@@ -7,7 +7,7 @@ llPDFLib is pure Object Pascal library to create PDF documents. This library doe
 <h2>llPDFLib features</h2>
 
 <ul type="disc">
-
+<li>Real Canvas.Handle (HDC)</li>
 <li>Unicode support</li>
 <li>PDF/A support</li>
 <li>Fill Patterns support</li>
@@ -26,6 +26,7 @@ llPDFLib is pure Object Pascal library to create PDF documents. This library doe
 <li> Emulation of the Underline and StrikeOut font style </li>
 <li> Present output into Stream for work with CGI/ISAPI applications </li>
 <li>True Type font subset </li>
+<li>Filters for QReport,FastReport and Report Builder.</li>
 <li> C++ Builder 4, 5, 6, 2006 support </li>
 <li> and much, much more.</li>
 </ul>
