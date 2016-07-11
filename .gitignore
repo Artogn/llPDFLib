@@ -1,0 +1,5 @@
+*.cfg
+/demo/Data/PDFFiles/*.pdf
+*.dof
+*.dsk
+*.dcu
